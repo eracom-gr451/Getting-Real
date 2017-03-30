@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Getting Real
 
-You can use the [editor on GitHub](https://github.com/eracom-gr451/Getting-Real/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Charte concernant le projet de développement web de la classe GR451 de l'ERACOM:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Les étudiants de l'ERACOM s'engagent à :
 
-### Markdown
+- Réaliser un site internet fonctionnel et facilement gérable par le client
+- Coopérer, comprendre le client
+- Ecouter son avis
+- Apporter un style personnel
+- Trouver le système le plus adéquat (Tumblr, WordPress, html...) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Les étudiants de la HEAD s’engagent à :
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eracom-gr451/Getting-Real/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Fournir les contenus: photos, images, texte(s), contact, vidéo...
+- Communiquer ses idées, donner des indications claires
+- Coopérer, être disponible
+- Prendre en charge l’acquisition d’un nom de domaine + hébergement
+- Après la finition du site, l'étudiant devra être autonome 
