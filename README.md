@@ -1,6 +1,6 @@
 ## Getting Real
 
-Charte concernant le projet de développement web de la classe GR451 de l'ERACOM:
+Charte concernant le projet de développement web de la classe GR451 de l'ERACOM, Lausanne:
 
 **Les étudiants de l'ERACOM s'engagent à :**
 
@@ -17,3 +17,7 @@ Charte concernant le projet de développement web de la classe GR451 de l'ERACOM
 - Coopérer, être disponible
 - Prendre en charge l’acquisition d’un nom de domaine + hébergement
 - Après la finition du site, l'étudiant devra être autonome 
+
+**Période de réalisation:** 
+
+Le projet a débuté le 30 mars 2017. Il se déroulera pendant la période avril-mai 2017. Les sites devront être finalisés le 8 juin au plus tard.
